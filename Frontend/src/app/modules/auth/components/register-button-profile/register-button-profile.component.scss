@@ -1,0 +1,18 @@
+@import "~@angular/material/theming";
+
+.content {
+  color: black;
+  text-align: left;
+  width: 100%;
+  flex-wrap: wrap;
+  font-size: 12px;
+  font-weight: 400;
+}
+.button-white {
+  background-color: white;
+  border: 1px solid #fff;
+  width: 100%;
+  cursor: pointer;
+  border-radius: 8px;
+  flex-wrap: wrap;
+}

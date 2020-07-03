@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+@import "variables";
+@import "~bootstrap/dist/css/bootstrap-grid.min.css";
+// @import "~bootstrap/dist/css/bootstrap-reboot.min.css";
+body {
+  padding: 0 !important;
+  margin: 0 !important;
+  font-family: "Ubuntu", sans-serif;
+}
+
+// html,
+// body {
+//   height: 100%;
+// }
+// body {
+//   margin: 0;
+//   font-family: Roboto, "Helvetica Neue", sans-serif;
+// }
+.mat-raised-button.mat-primary {
+  border-radius: 28px;
+}
